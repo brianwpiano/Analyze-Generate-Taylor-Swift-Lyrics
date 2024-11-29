@@ -1,5 +1,5 @@
 # Analyze-Generate-Taylor-Swift-Lyrics
-This analysis delves into Taylor Swift's lyrics from her albums (up to 2022) to uncover trends, patterns, and sentiments. By employing Natural Language Processing (NLP) techniques, sentiment analysis, and data visualization, we gain insights into the evolving themes and moods of her music, including whether she subtly hinted at her album Midnights before its release.
+This analysis explores the lyrics of Taylor Swift's albums (up to 2022) to uncover trends, patterns, and sentiments. By utilizing Natural Language Processing (NLP) techniques, sentiment analysis, and data visualization, we gain insights into the evolving themes and moods of her music, including whether she subtly hinted at her album Midnights before its release. The analysis also employs a Markov Chain model to generate new lyrics based on patterns found in Taylor Swift’s existing songs from albums up to 2022.
 
 
 ### Requirements:
