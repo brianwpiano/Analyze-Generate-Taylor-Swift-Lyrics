@@ -33,7 +33,14 @@ Markov Chain Lyrics Generation:
 By using data science techniques, this project aims to provide a deeper understanding of Taylor Swift's songwriting patterns, emotional content, and the evolving themes that define her career. Whether you're a fan, music enthusiast, or data analyst, this analysis offers valuable insights into the storytelling behind one of pop music’s biggest icons, based on her albums up to 2022.
 
 ### Project Screenshot
-![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220651.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20212227.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20223218.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20223231.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20223245.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20223256.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20223311.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20223326.png)
+![Alt text](https://github.com/brianwpiano/Analyze-Generate-Taylor-Swift-Lyrics/blob/main/Screenshot%202024-11-28%20223336.png)
 
 ## Run the app
 
