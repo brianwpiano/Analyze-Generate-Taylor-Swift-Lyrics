@@ -5,7 +5,7 @@ This analysis explores the lyrics of Taylor Swift's albums (up to 2022) to uncov
 ### Requirements:
 - Python 3.12.4
 - Jupyter Notebook 7.1
-- Libraries: pandas, nltk, matplotlib, seaborn, re, requests, plotly, collections
+- Libraries: pandas, nltk, matplotlib, re, requests, collections
 
 ### Features
 Data Collection:
