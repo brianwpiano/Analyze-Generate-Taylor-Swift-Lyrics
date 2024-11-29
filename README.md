@@ -11,10 +11,12 @@ This analysis explores Taylor Swift's lyrics from her albums (up to 2022) to unc
 Data Collection:
 - Lyrical Data Scraping: Collects Taylor Swift’s lyrics data from her entire catalog of albums through publicly accessible datasets, focusing on her works up to 2022.
 - Album Metadata: Each song's album name and release year are mapped, ensuring a comprehensive understanding of her lyrical evolution up to 2022.
+
 Data Analysis:
 - Time-Based Keyword Mentions: Analyzes mentions of time-related keywords (e.g., "night," "day," "midnight") in Taylor Swift's lyrics to uncover trends in her thematic content across albums up to 2022.
 - Sentiment Analysis: Applies the SentimentIntensityAnalyzer to evaluate the emotional tone of her lyrics over time, providing a compound sentiment score for each song from the albums released by 2022.
 - Word Frequency: Computes the most commonly used words in Taylor Swift's lyrics, identifying recurring themes and topics across all her albums up to 2022.
+
 Visualizations:
 - Trends in Time-Based References: Generates visualizations to illustrate how mentions of "night," "day," and "time" have evolved over the years, covering albums up to 2022.
 - Album Sentiment Comparison: Visualizes the overall sentiment (positive, negative, neutral) across Taylor Swift’s albums released by 2022, helping track emotional shifts in her music.
