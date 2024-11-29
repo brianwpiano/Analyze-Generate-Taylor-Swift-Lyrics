@@ -20,10 +20,10 @@ Data Analysis:
 Visualizations:
 - Trends in Time-Based References: Generates visualizations to illustrate how mentions of "night," "day," and "time" have evolved over the years, covering albums up to 2022.
 - Album Sentiment Comparison: Visualizes the overall sentiment (positive, negative, neutral) across Taylor Swift’s albums released by 2022, helping track emotional shifts in her music.
-- Song-Level Sentiment: Analyzes and visualizes sentiment at the song level, showing how individual tracks from albums up to 2022 are perceived emotionally.
 - Comparison of Day vs. Night Mentions: Visualizes the comparison between references to "day" and "night" over the years to highlight any shifts in thematic focus.
-Markov Chain Lyrics Generation:
-- New Lyric Generation: Uses a Markov Chain model to generate new lyrics based on patterns found in Taylor Swift’s existing songs from albums up to 2022. The generated lyrics are then analyzed for sentiment to classify them as positive, negative, or neutral.
+
+New Lyric Generation:
+- Uses a Markov Chain model to generate new lyrics based on patterns found in Taylor Swift’s existing songs from albums up to 2022. The generated lyrics are then analyzed for sentiment to classify them as positive, negative, or neutral.
 
 ### Insights:
 - Evolving Themes: The analysis reveals how Taylor Swift’s thematic focus, particularly on concepts like "time," "night," and "day," has evolved through her albums, from 2006 to 2022.
